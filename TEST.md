@@ -25,8 +25,16 @@
   ```  Device ##########CB : a valiad license has been fetched```
 * PASSED.
 
+#### Case 4: TLS certificate can not be validated
+* Syntax:
+  ```./checker.sh -rus-west ```
+* If the network does not any issue (access restriction or data connection issue), the output will be like below:
+  <br />
+  ```Trying to fetch a license from https://migration-service-r.wbx2.com :```<br />
+  ```  Error: unable to validate certificate issuer - [customer.proxy.com, Unknown Certificate]```
+* PASSED.
 
-#### Case 4: print the root CAs
+#### Case 5: print the root CAs
 * Syntax:
   ```./checker.sh -p ```
 * If the network does not any issue (access restriction or data connection issue), the output will be like below:
