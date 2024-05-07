@@ -30,7 +30,7 @@ The output will be like below:
   ```                 regionName: eu, us-east, us-west, fedramp``` <br />
   ```                 -p : display root CA names``` 
 
-See [Test.md](Test.md) for the examples.
+See [here](TEST.md) for examples.
 
 
 ### Java version
