@@ -2,7 +2,7 @@
 * Syntax:
   ```./checker.sh -rus-east ```
 * If the network does not any issue (access restriction or data connection issue), the output will be like below:
-  ```Trying to fetch a license from https://migration-service-a.wbx2.com : ```
+  ```Trying to fetch a license from https://migration-service-a.wbx2.com : \n```
   ```  Device ##########3C : a valiad license has been fetched```
 * PASSED.
 
@@ -10,6 +10,6 @@
 * Syntax:
   ```./checker.sh -reu ```
 * If the network does not any issue (access restriction or data connection issue), the output will be like below:
-  ```Trying to fetch a license from https://migration-service-k.wbx2.com :```
+  ```Trying to fetch a license from https://migration-service-k.wbx2.com :\n```
   ```  Device ##########3C : a valiad license has been fetched```
 * PASSED.
