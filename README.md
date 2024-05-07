@@ -26,7 +26,7 @@ You can first see help menu:
 
 The output will be like below:
 
-  ```     Usage: \[\-r regionName\] | \[\-p\]```  
+  ```     Usage: [-r regionName] | [-p]```  
   ```                 regionName: eu, us-east, us-west, fedramp``` <br />
   ```                 -p : display root CA names``` 
 
